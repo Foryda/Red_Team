@@ -24,10 +24,10 @@ li {
 </style>
 
 RedTeam/
-<ul>
+<ul style="list-style-type: none;">
   <li>├── docs/ # Documentation</li>
   <li>├── src/ # Code source des outils
-    <ul>
+    <ul style="list-style-type: none;">
       <li>├── reconnaissance/ # Scripts pour la phase de reconnaissance</li>
       <li>├── exploitation/ # Scripts d'exploitation des vulnérabilités</li>
       <li>└── post-exploitation/ # Scripts de post-exploitation</li>
@@ -39,3 +39,4 @@ RedTeam/
   <li>├── README.md # Documentation principale</li>
   <li>└── LICENSE # Fichier de licence</li>
 </ul>
+
