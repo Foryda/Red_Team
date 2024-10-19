@@ -19,9 +19,10 @@ RedTeam/
 │   ├── reconnaissance/  # Scripts pour la phase de reconnaissance
 │   ├── exploitation/    # Scripts d'exploitation des vulnérabilités
 │   └── post-exploitation/ # Scripts de post-exploitation
-├── [tools/](./tools/)              # Outils tiers utilisés dans le projet
+├── ```[tools/](./tools/)```              # Outils tiers utilisés dans le projet
 ├── reports/            # Rapports générés lors des tests d'intrusion
 ├── tests/              # Tests automatisés
 ├── README.md           # Documentation principale
 └── LICENSE             # Fichier de licence
+
 ```
