@@ -1,4 +1,3 @@
-
 # RedTeam
 
 Bienvenue dans **RedTeam**, un ensemble d'outils et de méthodes destinés à l'audit de sécurité et aux tests d'intrusion. Ce projet est conçu pour les professionnels de la cybersécurité et les chercheurs en sécurité.
@@ -6,10 +5,12 @@ Bienvenue dans **RedTeam**, un ensemble d'outils et de méthodes destinés à l'
 ⚠️ **Avertissement :**
 Je ne suis **pas responsable** de l'utilisation malveillante de ces outils ou méthodes. Ils sont fournis à des fins éducatives et pour des tests de sécurité légitimes. Toute utilisation non éthique ou illégale est strictement interdite et relève de la responsabilité de l'utilisateur.
 
-| ✅ | Respecter les lois en vigueur de votre pays avant d'utiliser cet outil. |
-| 🔴 | **Ne pas** utiliser cet outil pour accéder à des systèmes sans autorisation. |
-| 🔴 | **Ne pas** causer de dommages aux systèmes ciblés lors des tests d'intrusion. |
-| ✅ | Utiliser cet outil pour l'audit de vos propres systèmes ou avec autorisation explicite. |
+| Cases à cocher | Description |
+| --- | --- |
+| <ul><li>- [x] Respecter les lois en vigueur</li></ul> | Vous devez respecter les lois de votre pays. |
+| <ul><li>- [ ] Ne pas utiliser cet outil pour des activités illégales</li></ul> | Utilisation seulement pour des tests autorisés. |
+| <ul><li>- [x] Tester seulement vos propres systèmes</li></ul> | Tester uniquement des systèmes sur lesquels vous avez des droits d'accès. |
+| <ul><li>- [ ] Ne pas causer de dommages</li></ul> | Aucun dommage ne doit être causé pendant les tests. |
 
 ---
 
@@ -31,19 +32,9 @@ Je ne suis **pas responsable** de l'utilisation malveillante de ces outils ou m�
 
 ---
 
-## ✨ Fonctionnalités
-
-- Tests d'intrusion automatisés
-- Simulations d'attaques réelles
-- Rapports de vulnérabilité
-- Outils de post-exploitation
-- Scripts d'élévation de privilèges
-
----
-
 ## 📁 Arborescence du Projet
 
-Voici un aperçu de la structure du projet avec des liens vers chaque dossier :
+Voici un aperçu de la structure du projet avec des liens cliquables :
 
 ```bash
 RedTeam/
