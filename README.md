@@ -12,16 +12,19 @@ Bienvenue dans **RedTeam**, un ensemble d'outils et de méthodes destinés à l'
 
 Voici un aperçu de la structure du projet avec des liens cliquables :
 
-| Arborescence du Projet                      | Description                               |
-|---------------------------------------------|-------------------------------------------|
-| RedTeam/                                    |                                           |
-| ├── [docs/](./docs/)                        | Documentation                             |
-| ├── [src/](./src/)                          | Code source des outils                    |
-| │   ├── [reconnaissance/](./src/reconnaissance/) | Scripts pour la phase de reconnaissance   |
-| │   ├── [exploitation/](./src/exploitation/) | Scripts d'exploitation des vulnérabilités |
-| │   └── [post-exploitation/](./src/post-exploitation/) | Scripts de post-exploitation            |
-| ├── [tools/](./tools/)                      | Outils tiers utilisés dans le projet      |
-| ├── [reports/](./reports/)                  | Rapports générés lors des tests d'intrusion |
-| ├── [tests/](./tests/)                      | Tests automatisés                        |
-| ├── README.md                               | Documentation principale                 |
-| └── LICENSE                                 | Fichier de licence                       |
+RedTeam/
+<ul>
+  <li>├── docs/ # Documentation</li>
+  <li>├── src/ # Code source des outils
+    <ul>
+      <li>├── reconnaissance/ # Scripts pour la phase de reconnaissance</li>
+      <li>├── exploitation/ # Scripts d'exploitation des vulnérabilités</li>
+      <li>└── post-exploitation/ # Scripts de post-exploitation</li>
+    </ul>
+  </li>
+  <li>├── <a href="./tools/">tools/</a> # Outils tiers utilisés dans le projet</li>
+  <li>├── reports/ # Rapports générés lors des tests d'intrusion</li>
+  <li>├── tests/ # Tests automatisés</li>
+  <li>├── README.md # Documentation principale</li>
+  <li>└── LICENSE # Fichier de licence</li>
+</ul>
