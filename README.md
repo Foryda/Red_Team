@@ -16,7 +16,7 @@ RedTeam/
 <ul style="list-style-type: none;">
   <li>├── <a href="./Reconnaissance/">Reconnaissance</a>
     <ul style="list-style-type: none;">
-      <li>├── <a href="./Reconnaissance/OSINT-tools/" style="color: inherit; text-decoration: none;">OSINT-tools</a></li>
+      <li>├── <a href="./Reconnaissance/OSINT-tools/">OSINT-tools</a></li>
       <li>├── <a href="./Reconnaissance/Network-scanning/">Network-scanning</a></li>
       <li>└── <a href="./Reconnaissance/Social-engineering-recon/">Social-engineering-recon</a></li>
     </ul>
