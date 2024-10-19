@@ -12,14 +12,14 @@ Bienvenue dans **RedTeam**, un ensemble d'outils et de méthodes destinés à l'
 
 Voici un aperçu de la structure du projet avec des liens cliquables :
 
-RedTeam/
-├── docs/               # Documentation
-├── src/                # Code source des outils
-│   ├── reconnaissance/  # Scripts pour la phase de reconnaissance
-│   ├── exploitation/    # Scripts d'exploitation des vulnérabilités
-│   └── post-exploitation/ # Scripts de post-exploitation
-├── [tools/](./tools/)  # Outils tiers utilisés dans le projet
-├── reports/            # Rapports générés lors des tests d'intrusion
-├── tests/              # Tests automatisés
-├── README.md           # Documentation principale
-└── LICENSE             # Fichier de licence
+RedTeam/<br>
+├── docs/               # Documentation<br>
+├── src/                # Code source des outils<br>
+│   ├── reconnaissance/  # Scripts pour la phase de reconnaissance<br>
+│   ├── exploitation/    # Scripts d'exploitation des vulnérabilités<br>
+│   └── post-exploitation/ # Scripts de post-exploitation<br>
+├── [tools/](./tools/)  # Outils tiers utilisés dans le projet<br>
+├── reports/            # Rapports générés lors des tests d'intrusion<br>
+├── tests/              # Tests automatisés<br>
+├── README.md           # Documentation principale<br>
+└── LICENSE             # Fichier de licence<br>
