@@ -12,17 +12,6 @@ Bienvenue dans **RedTeam**, un ensemble d'outils et de méthodes destinés à l'
 
 Voici un aperçu de la structure du projet avec des liens cliquables :
 
-<style>
-ul {
-  list-style-type: none; /* Supprime les puces */
-  padding-left: 20px; /* Indentation pour garder l'alignement */
-}
-
-li {
-  margin-left: 10px; /* Optionnel : Ajuste l'alignement horizontal si nécessaire */
-}
-</style>
-
 RedTeam/
 <ul style="list-style-type: none;">
   <li>├── docs/ # Documentation</li>
