@@ -2,15 +2,19 @@
 
 Bienvenue dans **RedTeam**, un ensemble d'outils et de méthodes destinés à l'audit de sécurité et aux tests d'intrusion. Ce projet est conçu pour les professionnels de la cybersécurité et les chercheurs en sécurité.
 
-⚠️ **Avertissement :**
-Je ne suis **pas responsable** de l'utilisation malveillante de ces outils ou méthodes. Ils sont fournis à des fins éducatives et pour des tests de sécurité légitimes. Toute utilisation non éthique ou illégale est strictement interdite et relève de la responsabilité de l'utilisateur.
+> [!CAUTION]  
+> ⚠️ **Avertissement :**  
+> Je ne suis **pas responsable** de l'utilisation malveillante de ces outils ou méthodes. Ils sont fournis à des fins éducatives et pour des tests de sécurité légitimes. Toute utilisation non éthique ou illégale est strictement interdite et relève de la responsabilité de l'utilisateur.
 
-| Cases à cocher et description |
-| --- |
-| - [x] **Respecter les lois en vigueur** de votre pays avant d'utiliser cet outil. |
-| - [ ] **Ne pas utiliser cet outil pour accéder à des systèmes sans autorisation**. |
-| - [ ] **Ne pas causer de dommages** aux systèmes ciblés lors des tests d'intrusion. |
-| - [x] **Utiliser cet outil uniquement pour l'audit** de vos propres systèmes ou avec autorisation explicite. |
+<div style="border: 2px solid red; padding: 10px; margin: 10px 0; background-color: #ffe6e6;">
+  <h3 style="color: red;">Avertissement :</h3>
+  <ul>
+    <li><input type="checkbox" checked> Respecter les lois en vigueur de votre pays avant d'utiliser cet outil.</li>
+    <li><input type="checkbox"> Ne pas utiliser cet outil pour accéder à des systèmes sans autorisation.</li>
+    <li><input type="checkbox"> Ne pas causer de dommages aux systèmes ciblés lors des tests d'intrusion.</li>
+    <li><input type="checkbox" checked> Utiliser cet outil uniquement pour l'audit de vos propres systèmes ou avec autorisation explicite.</li>
+  </ul>
+</div>
 
 ---
 
@@ -29,6 +33,16 @@ Je ne suis **pas responsable** de l'utilisation malveillante de ces outils ou m�
 ## 🔍 À propos
 
 **RedTeam** est un projet open source destiné aux audits de sécurité. Il permet de simuler des scénarios d'attaque pour identifier les failles et améliorer la sécurité des systèmes.
+
+---
+
+## ✨ Fonctionnalités
+
+- Tests d'intrusion automatisés
+- Simulations d'attaques réelles
+- Rapports de vulnérabilité
+- Outils de post-exploitation
+- Scripts d'élévation de privilèges
 
 ---
 
