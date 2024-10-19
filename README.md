@@ -14,50 +14,63 @@ Voici un aperçu de la structure du projet avec des liens cliquables :
 
 RedTeam/
 <ul style="list-style-type: none;">
-  <li>├── docs/ # Documentation générale</li>
-  <li>├── src/ # Code source des outils
+  <li>├── <a href="./Reconnaissance/">Reconnaissance</a>
     <ul style="list-style-type: none;">
-      <li>├── reconnaissance/ # Scripts pour la phase de reconnaissance</li>
-      <li>├── exploitation/ # Scripts d'exploitation des vulnérabilités
-        <ul style="list-style-type: none;">
-          <li>├── Privilege-escalation/ # Techniques d'escalade de privilèges</li>
-          <li>├── Exploits/ # Scripts ou modules d'exploitation</li>
-          <li>├── Physical-exploits/ # Exploits physiques (Mouse Jacking, etc.)</li>
-          <li>└── Lateral-movement/ # Techniques de mouvement latéral</li>
-        </ul>
-      </li>
-      <li>├── post-exploitation/ # Scripts de post-exploitation
-        <ul style="list-style-type: none;">
-          <li>├── Backdoors/ # Outils pour maintenir l'accès</li>
-          <li>├── Post-exploitation-scripts/ # Scripts pour automatiser les actions</li>
-          <li>└── Payloads/ # Payloads pour persistance</li>
-        </ul>
-      </li>
-      <li>├── evasion/ # Scripts pour éviter la détection
-        <ul style="list-style-type: none;">
-          <li>├── AV-bypass/ # Techniques d'évasion des antivirus</li>
-          <li>├── EDR-bypass/ # Contournement des systèmes EDR</li>
-          <li>└── Obfuscation-techniques/ # Techniques d'obfuscation des payloads</li>
-        </ul>
-      </li>
-      <li>└── social-engineering/ # Techniques d'ingénierie sociale
-        <ul style="list-style-type: none;">
-          <li>├── Phishing/ # Scripts et outils de phishing</li>
-          <li>├── Impersonation/ # Techniques d'usurpation d'identité</li>
-          <li>└── Physical-intrusion/ # Scripts pour intrusion physique</li>
-        </ul>
-      </li>
+      <li>├── <a href="./Reconnaissance/OSINT-tools/">OSINT-tools</a></li>
+      <li>├── <a href="./Reconnaissance/Network-scanning/">Network-scanning</a></li>
+      <li>└── <a href="./Reconnaissance/Social-engineering-recon/">Social-engineering-recon</a></li>
     </ul>
   </li>
-  <li>├── <a href="./tools/">tools/</a> # Outils tiers utilisés dans le projet (ex: Metasploit, Empire, etc.)</li>
-  <li>├── reports/ # Rapports générés lors des tests d'intrusion
+
+  <li>├── <a href="./Pentest/">Pentest</a>
     <ul style="list-style-type: none;">
-      <li>├── Attack-reports/ # Rapports d'attaques simulées</li>
-      <li>├── Playbooks/ # Scénarios et méthodologies d'attaque</li>
-      <li>└── Recommendations/ # Conseils de renforcement de la sécurité</li>
+      <li>├── <a href="./Pentest/Network-pentesting/">Network-pentesting</a></li>
+      <li>├── <a href="./Pentest/Web-pentesting/">Web-pentesting</a></li>
+      <li>├── <a href="./Pentest/WiFi-attacks/">WiFi-attacks</a></li>
+      <li>└── <a href="./Pentest/Application-pentesting/">Application-pentesting</a></li>
     </ul>
   </li>
-  <li>├── tests/ # Tests automatisés pour validation des outils</li>
-  <li>├── README.md # Documentation principale</li>
-  <li>└── LICENSE # Fichier de licence</li>
+
+  <li>├── <a href="./Exploitation/">Exploitation</a>
+    <ul style="list-style-type: none;">
+      <li>├── <a href="./Exploitation/Privilege-escalation/">Privilege-escalation</a></li>
+      <li>├── <a href="./Exploitation/Exploits/">Exploits</a></li>
+      <li>├── <a href="./Exploitation/Physical-exploits/">Physical-exploits</a></li>
+      <li>└── <a href="./Exploitation/Lateral-movement/">Lateral-movement</a></li>
+    </ul>
+  </li>
+
+  <li>├── <a href="./Persistence/">Persistence</a>
+    <ul style="list-style-type: none;">
+      <li>├── <a href="./Persistence/Backdoors/">Backdoors</a></li>
+      <li>├── <a href="./Persistence/Post-exploitation-scripts/">Post-exploitation-scripts</a></li>
+      <li>└── <a href="./Persistence/Payloads/">Payloads</a></li>
+    </ul>
+  </li>
+
+  <li>├── <a href="./Evasion/">Evasion</a>
+    <ul style="list-style-type: none;">
+      <li>├── <a href="./Evasion/AV-bypass/">AV-bypass</a></li>
+      <li>├── <a href="./Evasion/EDR-bypass/">EDR-bypass</a></li>
+      <li>└── <a href="./Evasion/Obfuscation-techniques/">Obfuscation-techniques</a></li>
+    </ul>
+  </li>
+
+  <li>├── <a href="./Ingenierie-sociale/">Ingénierie-sociale</a>
+    <ul style="list-style-type: none;">
+      <li>├── <a href="./Ingenierie-sociale/Phishing/">Phishing</a></li>
+      <li>├── <a href="./Ingenierie-sociale/Impersonation/">Impersonation</a></li>
+      <li>└── <a href="./Ingenierie-sociale/Physical-intrusion/">Physical-intrusion</a></li>
+    </ul>
+  </li>
+
+  <li>├── <a href="./Rapports-et-documentation/">Rapports-et-documentation</a>
+    <ul style="list-style-type: none;">
+      <li>├── <a href="./Rapports-et-documentation/Attack-reports/">Attack-reports</a></li>
+      <li>├── <a href="./Rapports-et-documentation/Playbooks/">Playbooks</a></li>
+      <li>└── <a href="./Rapports-et-documentation/Recommendations/">Recommendations</a></li>
+    </ul>
+  </li>
+
+  <li>└── <a href="./README.md">README.md</a></li>
 </ul>
