@@ -12,6 +12,7 @@ Bienvenue dans **RedTeam**, un ensemble d'outils et de méthodes destinés à l'
 
 Voici un aperçu de la structure du projet avec des liens cliquables :
 
+```
 RedTeam/
 ├── docs/               # Documentation
 ├── src/                # Code source des outils
@@ -23,3 +24,4 @@ RedTeam/
 ├── tests/              # Tests automatisés
 ├── README.md           # Documentation principale
 └── LICENSE             # Fichier de licence
+```
